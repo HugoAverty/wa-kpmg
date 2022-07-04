@@ -1161,11 +1161,6 @@
          "name":"script",
          "type":"string",
          "value":"main.ts"
-        }, 
-        {
-         "name":"tutorial",
-         "type":"bool",
-         "value":true
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
