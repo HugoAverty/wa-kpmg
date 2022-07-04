@@ -1145,7 +1145,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"office.png"
+         "value":"KPMG Office"
         }, 
         {
          "name":"mapLink",
@@ -1155,12 +1155,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"KPMG OFFICE"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"main.ts"
+         "value":"KPMG Office"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
