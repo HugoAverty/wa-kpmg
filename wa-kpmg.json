@@ -711,7 +711,7 @@
                          "value":"src\/Forest.mp3"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -739,7 +739,7 @@
                          "value":"src\/chopin.mp3"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
