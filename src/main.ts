@@ -8,23 +8,11 @@ console.log('Script started successfully');
 let currentPopup: any = undefined;
 // Open the popup when we enter a given zone
 
-// Close the popup when we leave the zone.
-WA.room.onLeaveLayer("myZone").subscribe(() => {
-    helloWorldPopup.close();
-})
-
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
     WA.room.onEnterLayer('myZone').subscribe(() => {
-        currentPopup = WA.ui.openPopup("popupRectangle", "Bienvenue sur les bureaux virtuels de Digital Audit Leaders, vous pouvez les utiliser durant toute la durée du programme pour vous retrouver en équipes, partager des moments conviviaux ou encore avancer sur vos projets en mode collaboratifs ! N'hésitez pas à explorer l'espace", [{
-            label: "Close",
-            className: "primary",
-            callback: (popup) => {
-                // Close the popup when the "Close" button is pressed.
-                popup.close();
-            }
-        }]);
+        currentPopup = WA.ui.openPopup("popupRectangle", "Bienvenue sur les bureaux virtuels de Digital Audit Leaders, vous pouvez les utiliser durant toute la durée du programme pour vous retrouver en équipes, partager des moments conviviaux ou encore avancer sur vos projets en mode collaboratifs ! N'hésitez pas à explorer l'espace", []);
     })
 
     WA.room.onLeaveLayer('myZone').subscribe(closePopUp)
