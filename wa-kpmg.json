@@ -1581,8 +1581,14 @@
                  "y":1964
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
