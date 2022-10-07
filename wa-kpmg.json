@@ -332,6 +332,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{bot1url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -350,6 +355,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{bot1url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -368,6 +378,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{bot1url3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -386,6 +401,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{bot2url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -404,6 +424,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{bot2url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -422,6 +447,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{bot2url3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -440,6 +470,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{bot3url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -458,6 +493,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{bot3url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -476,6 +516,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{bot3url3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -494,6 +539,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{botMain1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -512,6 +562,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{botMain2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -530,6 +585,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{botMain3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -548,6 +608,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{top3url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -566,6 +631,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{top3url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -584,6 +654,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{top3url3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -602,6 +677,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{top2url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -620,6 +700,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{top2url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -638,6 +723,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{top1url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -656,6 +746,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"{{{top1url1Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -674,6 +769,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"{{{top1url2Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -692,6 +792,11 @@
                                  "name":" ",
                                  "type":"string",
                                  "value":"{{{top1url3Point}}}"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
